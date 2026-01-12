@@ -1,13 +1,16 @@
-Financial Analysis and Valuation of Broadcom Inc. (AVGO) 📊🚀
+# Broadcom (AVGO) Valuation & Equity Research
 
-This repository contains a project with: 
-Excel Side: comprehensive 3 income statement, DCF model, Scenario & Sensitivity Analysis, Comps Analysis, Research Equity Report and Investment Memo 
-Python/Coding Side: Visulation of Key charts/Data used in the analysis, including Moving average candlestick charts and Comparsion heat map
+## 🎯 Objective
+A comprehensive financial valuation of **Broadcom Inc. (AVGO)** to determine its intrinsic and relative fair value, utilizing advanced modeling and Python-based visualization.
+---
+## 📂 Core Project Files
 
-
-📂 Repository Contents
-1. Source Code 🐍
-2. Historical Data (2020-2025) 📅
-CSV files containing the base financial information extracted for the analysis:
-3. Projections (2026-2029) 📈
-Files used to compare model predictions with manual/analyst projections:
+* **Capital Structure:** Analysis of AVGO’s debt profile, Market Cap (MC), and Enterprise Value (EV).
+* **Financial Statements:** Comprehensive 3-Statement (Income Statement, Balance Sheet, Cash Flow) historical and projected analysis.
+* **DCF Model:** Discounted Cash Flow projections and Terminal Value estimation (Exit Multiple & Perpetuity Growth methods).
+* **Comparative Analysis (CCA):** Relative valuation benchmarking AVGO against industry peers.
+* **Sensitivity & Scenario Analysis:** Stress-testing valuation outcomes against changes in WACC and growth rates.
+---
+## 🐍 Python Scripts
+* **Data Automation** 
+* **Visualizations** 
