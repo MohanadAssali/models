@@ -1,9 +1,9 @@
 # Broadcom (AVGO) Valuation & Equity Research
 
-## 🎯 Objective
+##  Objective
 A comprehensive financial valuation of **Broadcom Inc. (AVGO)** to determine its intrinsic and relative fair value, utilizing advanced modeling and Python-based visualization.
 ---
-## 📂 Core Project Files
+##  Core Project Files
 
 * **Capital Structure:** Analysis of AVGO’s debt profile, Market Cap (MC), and Enterprise Value (EV).
 * **Financial Statements:** Comprehensive 3-Statement (Income Statement, Balance Sheet, Cash Flow) historical and projected analysis.
@@ -11,6 +11,6 @@ A comprehensive financial valuation of **Broadcom Inc. (AVGO)** to determine its
 * **Comparative Analysis (CCA):** Relative valuation benchmarking AVGO against industry peers.
 * **Sensitivity & Scenario Analysis:** Stress-testing valuation outcomes against changes in WACC and growth rates.
 ---
-## 🐍 Python Scripts
+##  Python Scripts
 * **Data Automation** 
 * **Visualizations** 
