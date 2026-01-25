@@ -5,6 +5,7 @@ For the most accurate representation of my work, please focus on the most recent
 
 (Organized by recency — most recent work at the top)
 
+- **Tesla Inc. → TSLA** 
 - **The Coca-Cola Company → KO** 
 - **Broadcom Inc. → AVGO** 
 
