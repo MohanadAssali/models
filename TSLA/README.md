@@ -8,4 +8,3 @@ Currently working on:
 - **Monte Carlo Simulation of the DCF model**
 - **Complete professional Comps analysis**
 
-  # Tesla Inc. (TSLA) - IN PROGRESS
