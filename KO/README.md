@@ -1,3 +1,6 @@
+### Key Improvements from previous models
+- **Advanced Comps Analysis**
+
 # CocoCola (KO) - IN PROGRESS
 
 ### Content:
