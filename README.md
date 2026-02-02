@@ -5,7 +5,6 @@ For the most accurate representation of my work, please focus on the most recent
 
 (Organized by recency — most recent work at the top)
 
-- **Meta Platforms Inc. → META (Next)**
 - **Tesla Inc. → TSLA (In progress)**
 - **Nordstrom (Acq. by Liverpool) → JWN_LBO** 
 - **The Coca-Cola Company → KO** 
